@@ -1,4 +1,4 @@
-# Cod-of-EFIMG-TSKs
+# Code-of-EFIMG-TSKs
 The codes of EFIMG-TSKs
 The codes of EFIMG-TSKs include the main EFIMG.m file and five other functional functions
 (1)The CCPP as one of our experimental dataset can be available at http://archive.ics.uci.edu/dataset/294.
