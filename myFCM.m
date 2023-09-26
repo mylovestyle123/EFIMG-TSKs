@@ -53,7 +53,7 @@ for i = 1:Nc
     Xrecord(1:Ni, :, i) = tempX;
 
     % get sigma for every tempX
-    covtemp = cov(tempX) + 1e-7;
+    covtemp = cov(tempX) + 1e-8;
     covariance(:, :, i) = covtemp;
 
     %size(covariance)
